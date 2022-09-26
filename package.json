@@ -1,0 +1,13 @@
+{
+  "name": "netlify-chartjs-functions-size-bug",
+  "version": "1.0.0",
+  "description": "Repro repo",
+  "main": "index.html",
+  "repository": "https://github.com/danielthedifficult/netlify-chartjs-functions-size-bug.git",
+  "author": "Daniel Mulroy <dan@danmulroy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6"
+  }
+}
